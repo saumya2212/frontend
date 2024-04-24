@@ -1,2 +1,1 @@
-# bakery-applications
-bake my cake
+java daily is a practice 
